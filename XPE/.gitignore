@@ -1,0 +1,54 @@
+# git ignore list
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#vim
+*.swp
+*.swo
+
+#python
+*.pyc
+*.npz
+*.csv
+
+*.exe
+tags
+build/
+dist/
+*.i
+tmp/
+build/
+sim_examples/data/dataset/
+*test*
+test*
+*test
